@@ -1,0 +1,15 @@
+th{
+	font-weight:800;
+	background-color: #DDDD0F;
+	color: blue
+}
+table{
+	font-family: helvetica, sans-serif;
+	border-collapse: collapse;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DDDD0F;
+}
+h1{
+	color: darkblue;
+}
